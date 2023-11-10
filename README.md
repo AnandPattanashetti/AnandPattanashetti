@@ -31,7 +31,7 @@
 ## Connect with Me
 
 - 📧 Email: [anandshetty010@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/anand-p9731265371/]
+- 💼 LinkedIn: [https://www.linkedin.com/in/anand-p9731265371/] 
 
 ## Let's Grow Together!
 
