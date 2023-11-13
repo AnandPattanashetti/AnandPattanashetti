@@ -25,8 +25,8 @@
                                    HTTP requests and responses, Hibernate ORM for data persistence, and MySQL for the database
 ## Certifications
 
-- 🎓 java developer =           https://drive.google.com/file/d/1_K0oHSZlA0fuOc8BpivsM4WsDoZ3FzrK/view?usp=drivesdk
-- 🏆 AWS Solutions Architect =  https://drive.google.com/file/d/1K1s544nN7wuERlnePaWPH3mh00OqAryA/view?usp=drivesdk 
+- 🎓 java developer
+- 🏆 AWS Solutions Architect
 
 ## Connect with Me
 
