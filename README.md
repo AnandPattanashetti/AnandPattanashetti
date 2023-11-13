@@ -46,7 +46,7 @@
 
 ###
 
-<p>☁️ AWS (Amazon Web Services)<br>🛠 Java Programming<br>🤖 DevOps Practices and Tools<br>Tools</p>
+<p>☁️ AWS (Amazon Web Services)<br>🛠 Java Programming<br>🤖 DevOps Practices and Tools<br></p>
 
 ###
 
