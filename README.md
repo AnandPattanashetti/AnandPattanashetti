@@ -17,6 +17,7 @@
 - ☁️ AWS (Amazon Web Services)
 - 🛠 Java Programming
 - 🤖 DevOps Practices and Tools
+- Tools
 
 ## Projects
 
@@ -27,6 +28,7 @@
 
 - 🎓 java developer
 - 🏆 AWS Solutions Architect
+- 🛠️ Jenkins,Maven,Sonarqube,Git,GitHub.Docker,Kubernetes,Grafana
 
 ## Connect with Me
 
