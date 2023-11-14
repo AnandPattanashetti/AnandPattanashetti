@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif"  />
+  <img height="400" src="https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif"  />
 </div>
 
 ###
