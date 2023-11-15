@@ -117,8 +117,8 @@
 <h3>Certifications</h3>
 
 ###
+<p><a href="https://github.com/9731265371/javacertificate/blob/main/ANAND%20PATTANASHETTI.pdf">Java Developer</a></p>
 
-<p>🎓 Java Developer<br>🏆 AWS Solutions Architect<br></p>
 
 ###
 
