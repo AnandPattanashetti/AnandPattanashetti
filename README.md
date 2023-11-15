@@ -43,8 +43,19 @@
 <h3>Skills</h3>
 
 ###
-
-<p>☁️  Cloud Computing = AWS (Amazon Web Services)<br>🛠 Language = Java Programming<br>🤖 DevOps Practices and Tools<br></p>
+<p style="font-size: 1.2em;">
+  ☁️ <strong>Cloud:</strong> AWS<br>
+  💻 <strong>Operating System:</strong> Linux & Windows<br>
+  📦 <strong>Source code Repository:</strong> CodeCommit, Github<br>
+  🛠 <strong>Build Tool:</strong> Maven<br>
+  🔄 <strong>CI/CD:</strong> CodePipeline, Jenkins<br>
+  ⚙️ <strong>Configuration Management:</strong> Terraform, Ansible<br>
+  🚢 <strong>Containerization Tool:</strong> Docker 🐳, Kubernetes 🚢<br>
+  📜 <strong>Scripting:</strong> Shell Scripting<br>
+  🗃️ <strong>DB & Cluster:</strong> MySQL 🐬<br>
+  📊 <strong>Code Quality Check:</strong> SonarQube<br>
+  👩‍💻 <strong>Programming Language:</strong> Java ☕
+</p>
 
 ###
 
