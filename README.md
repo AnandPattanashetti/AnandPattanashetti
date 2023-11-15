@@ -44,7 +44,7 @@
 
 ###
 
-<p>☁️ AWS (Amazon Web Services)<br>🛠 Java Programming<br>🤖 DevOps Practices and Tools<br></p>
+<p>☁️  Cloud Computing = AWS (Amazon Web Services)<br>🛠 Language = Java Programming<br>🤖 DevOps Practices and Tools<br></p>
 
 ###
 
@@ -78,6 +78,15 @@
   <img width="6" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL1lUOuh7EYFcqSsVf4vg_W9yKCj4s_1OE3qAMZ9dvoA&s" height="40" alt="maven logo"  />
   <img width="12" />
+  <img src="https://www.svgrepo.com/show/376353/terraform.svg" height="40" alt="Trraform logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3HvZbcbnfbfyWwLnIk7rJREZH-M9IuTWfPsBUev-b&s" height="40" alt="ansible logo"  />
+  <img width="12" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" height="40" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Is6mP3wpvEZFXK0AC75KPeZTQQ3J4395s7AdsMEfDA&s" height="40" alt="ansible logo"  />
+  <img width="12" />
+  
   
   
   
