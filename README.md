@@ -36,7 +36,7 @@
 
 ###
 
-<p>Completed courses in Java programming and AWS DevOps.</p>
+<p> 🎓👨‍🎓 Bachelor of Engineering 📊 CGPA: 6.75/10 <br> 👨‍💻🔄 Completed courses in Java programming and AWS DevOps.</p>
 
 ###
 
@@ -46,7 +46,7 @@
 <p style="font-size: 1.2em;">
   ☁️ <strong>Cloud:</strong> AWS<br>
   💻 <strong>Operating System:</strong> Linux & Windows<br>
-  📦 <strong>Source code Repository:</strong> CodeCommit, Github<br>
+  📦 <strong>Source code Repository:</strong> Git , Github<br>
   🛠 <strong>Build Tool:</strong> Maven<br>
   🔄 <strong>CI/CD:</strong> CodePipeline, Jenkins<br>
   ⚙️ <strong>Configuration Management:</strong> Terraform, Ansible<br>
@@ -118,7 +118,7 @@
 
 ###
 
-<p>🎓 Java Developer<br>🏆 AWS Solutions Architect<br>🛠️ Jenkins, Maven, Sonarqube, Git, GitHub, Docker, Kubernetes, Grafana</p>
+<p>🎓 Java Developer<br>🏆 AWS Solutions Architect<br></p>
 
 ###
 
@@ -130,7 +130,7 @@
 
 ###
 
-<h3>Let's Grow Together!</h3>
+<h3> 💡 Let's Grow Together!</h3>
 
 ###
 
