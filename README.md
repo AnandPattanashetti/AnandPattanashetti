@@ -28,7 +28,20 @@
 
 ###
 
-<p>Recent graduate enthusiastic about entering the IT industry.<br>Actively seeking opportunities to contribute to projects and gain real-world experience.<br>Keen on learning and implementing the latest trends in AWS DevOps.</p>
+<!--<p>As a recent graduate with a solid foundation in [*AWS, DevOps, and Java programming*], I am thrilled to launch my career in the dynamic IT industry. My primary focus is on AWS and DevOps, and I am actively seeking opportunities to contribute my skills to projects that align with these technologies, aiming to gain valuable real-world experience.</p>
+
+<p>With a comprehensive understanding of Java programming, I bring a strong coding background to the table. However, my proficiency in AWS and DevOps takes center stage, grounded in a recent and thorough course completion. This experience has equipped me with hands-on expertise in cloud computing, infrastructure as code, and continuous integration/continuous deployment (CI/CD) practices.</p>
+
+<p>I am deeply committed to staying at the forefront of the latest industry trends, particularly in AWS and DevOps. My enthusiasm lies in implementing cutting-edge practices within the AWS DevOps ecosystem. My goal is to leverage my technical skills to contribute significantly to the success of projects, showcasing adaptability and an eagerness to embrace new challenges.</p>
+
+<p>I am genuinely excited about the prospect of applying my knowledge and collaborating with experienced professionals to further develop my expertise in AWS, DevOps, and Java. Ready to bring a fresh perspective to the field, I am confident in my ability to make meaningful contributions to any team or project.</p>-->
+
+<p>Recent graduate with proficiency in Java, AWS, and DevOps, seeking a career in AWS and DevOps. Completed rigorous training in these technologies and eager to apply knowledge to real-world scenarios. Excited about contributing to innovative projects and continuously learning in a professional setting. Ready to bring a fresh perspective and make a meaningful impact in the AWS and DevOps landscape.</p>
+
+
+
+
+
 
 ###
 
