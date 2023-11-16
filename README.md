@@ -35,10 +35,10 @@
 <h3>Education</h3>
 
 ###
-
-<p> 🎓👨‍🎓 Bachelor of Engineering 📊 CGPA: 6.75/10 <br> 👨‍💻🔄 Completed courses in Java programming and AWS DevOps.</p>
-
-###
+<ul>
+  <li>🎓👨‍🎓 Bachelor of Engineering 📊 CGPA: 6.75/10</li>
+  <li>👨‍💻🔄 Completed courses in Java programming and AWS DevOps.</li>
+</ul>
 
 <h3>Skills</h3>
 
@@ -109,15 +109,35 @@
 <h3>Projects</h3>
 
 ###
+<p>
+  <a href="https://github.com/9731265371/foodapp">foodapp Java Project</a> - 
+  Developed a Backend system for Food App using the Spring Boot framework.
+</p>
 
-<p><a href="https://github.com/9731265371/foodapp">foodapp Java Project</a> - Developed a Backend system for Food App using the spring boot framework. Implemented functionalities such as user authentication, order processing, and database management. Utilized Spring MVC for handling HTTP requests and responses, Hibernate ORM for data persistence, and MySQL for the database.</p>
+<ul>
+  <li>Implemented functionalities such as user authentication, order processing, and database management.</li>
+  <li>Utilized Spring MVC for handling HTTP requests and responses.</li>
+  <li>Employed Hibernate ORM for data persistence.</li>
+  <li>Utilized MySQL for the database.</li>
+</ul>
 
-###
 
 <h3>Certifications</h3>
 
 ###
-<p><a href="https://github.com/9731265371/javacertificate/blob/main/ANAND%20PATTANASHETTI.pdf">Java Developer</a> <br><a href="https://github.com/9731265371/javacertificate/blob/main/AWS-%20LiveCertificateAnand%20Pattanashetti%20(1).png">AWS Solution Architect <a/></p>
+<!-- 
+<p>
+  <a href="https://github.com/9731265371/javacertificate/blob/main/ANAND%20PATTANASHETTI.pdf">Java Developer</a>
+  <br>
+  <a href="https://github.com/9731265371/javacertificate/blob/main/AWS-%20LiveCertificateAnand%20Pattanashetti%20(1).png">AWS Solution Architect</a>
+</p>
+-->
+
+
+<ul>
+  <li>Java Developer - View my certification <a href="https://github.com/9731265371/javacertificate/blob/main/ANAND%20PATTANASHETTI.pdf">here</a>.</li>
+  <li>AWS Solution Architect - See my certificate <a href="https://github.com/9731265371/javacertificate/blob/main/AWS-%20LiveCertificateAnand%20Pattanashetti%20(1).png">here</a>.</li>
+</ul>
 
 
 ###
@@ -126,7 +146,13 @@
 
 ###
 
-<p>📧 Email: <a href="mailto:anandshetty010@gmail.com">anandshetty010@gmail.com</a><br>💼 LinkedIn: <a href="https://www.linkedin.com/in/anand-p9731265371/">LinkedIn Profile</a></p>
+
+<p>
+  <span style="font-size: larger;">📧 Email:</span>
+  <a href="mailto:anandshetty010@gmail.com">anandshetty010@gmail.com</a><br>
+  <span style="font-size: larger;">💼 LinkedIn:</span>
+  <a href="https://www.linkedin.com/in/anand-p9731265371/">LinkedIn Profile</a>
+</p>
 
 ###
 
