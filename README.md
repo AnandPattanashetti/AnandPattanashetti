@@ -2,7 +2,7 @@
   <img height="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--PJZtCgZz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8hwuxnz09e8mhfl7tl9c.gif"  />
 </div>-->
 <div align="center">
-  <img height="500" width="5000" src="https://blogs.commons.georgetown.edu/cctp-607-spring2021/files/2021/05/giphy.gif" />
+  <img height="500" width="5000" src="https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif" />
 </div>
 
 
@@ -172,6 +172,8 @@
   <a href="https://www.linkedin.com/in/anand-p9731265371/">LinkedIn Profile</a>
 </p>
 
+
+
 ###
 
 <h3> 💡 Let's Grow Together!</h3>
@@ -179,3 +181,8 @@
 ###
 
 <p>As a recent graduate, I am eager to learn, contribute, and grow in the dynamic field of AWS DevOps. If you have an opportunity or advice to share, I'd love to connect. Let's build a successful career journey together! 🚀</p>
+
+<div align="center">
+  <img height="500" width="5000" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/07/12140908/cloud-computing.gif" />
+</div>
+
