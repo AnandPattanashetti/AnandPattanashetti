@@ -70,7 +70,7 @@
   ⚙️ <strong>Configuration Management:</strong> Terraform, Ansible<br>
   🚢 <strong>Containerization Tool:</strong> Docker 🐳, Kubernetes 🚢<br>
   📜 <strong>Scripting:</strong> Shell Scripting<br>
-  🗃️ <strong>DB & Cluster:</strong> MySQL 🐬<br>
+  🗃️ <strong>DB & Cluster:</strong> MySQL 🐬, <br>
   📊 <strong>Code Quality Check:</strong> SonarQube<br>
   👩‍💻 <strong>Programming Language:</strong> Java ☕
 </p>
@@ -85,6 +85,9 @@
 <div align="left">
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" height="40" alt="kubernetes logo"  />
   <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
@@ -118,6 +121,9 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Is6mP3wpvEZFXK0AC75KPeZTQQ3J4395s7AdsMEfDA&s" height="40" alt="ansible logo"  />
   <img width="12" />
     <img src="https://static.thenounproject.com/png/2588218-200.png" height="40" alt="ansible logo"  />
+  <img width="12" />
+
+   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" height="40" alt="ansible logo"  />
   <img width="12" />
   
   
