@@ -123,7 +123,7 @@
     <img src="https://static.thenounproject.com/png/2588218-200.png" height="40" alt="ansible logo"  />
   <img width="12" />
 
-   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" height="40" alt="ansible logo"  />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1200px-Apache_Tomcat_logo.svg.png" height="40" alt="ansible logo"  />
   <img width="12" />
   
   
