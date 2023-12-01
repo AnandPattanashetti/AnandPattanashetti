@@ -67,8 +67,11 @@
   📦 <strong>Source code Repository:</strong> Git , Github<br>
   🛠 <strong>Build Tool:</strong> Maven<br>
   🔄 <strong>CI/CD:</strong> CodePipeline, Jenkins<br>
-  ⚙️ <strong>Configuration Management:</strong> Terraform, Ansible<br>
+  <!--⚙️ <strong>Configuration Management:</strong> Terraform, Ansible<br>-->
+  🌐<strong>Web Server :</strong> Apache Tomcat<br>
+  🔍<strong>Monitoring Tool:</strong> Grafana, Prometheus,CloudWatch<br>
   🚢 <strong>Containerization Tool:</strong> Docker 🐳, Kubernetes 🚢<br>
+  ⚙️ <strong>Configuration Management:</strong> Terraform, Ansible<br>
   📜 <strong>Scripting:</strong> Shell Scripting<br>
   🗃️ <strong>DB & Cluster:</strong> MySQL 🐬, <br>
   📊 <strong>Code Quality Check:</strong> SonarQube<br>
