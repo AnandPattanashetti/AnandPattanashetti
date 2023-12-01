@@ -196,7 +196,7 @@
 
 <p>As a recent graduate, I am eager to learn, contribute, and grow in the dynamic field of AWS DevOps. If you have an opportunity or advice to share, I'd love to connect. Let's build a successful career journey together! 🚀</p>
 
-<div align="center">
+<!--<div align="center">
   <img height="500" width="5000" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/07/12140908/cloud-computing.gif" />
-</div>
+</div>-->
 
