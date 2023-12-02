@@ -200,3 +200,22 @@
   <img height="500" width="5000" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/07/12140908/cloud-computing.gif" />
 </div>-->
 
+
+<div align="center">
+  <a href="https://github.com/9731265371">
+    <img src="https://img.shields.io/github/followers/9731265371?label=Follow&style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/9731265371">
+    <img src="https://img.shields.io/github/stars/9731265371?style=social" alt="GitHub stars" />
+  </a>
+  <a href="https://github.com/9731265371">
+    <img src="https://img.shields.io/github/last-commit/9731265371/9731265371?style=flat" alt="GitHub last commit" />
+  </a>
+</div>
+
+<!-- GitHub Readme Stats -->
+![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=9731265371&show_icons=true&theme=radical)
+
+<!-- Top Languages Used -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9731265371&layout=compact&theme=radical)
+
