@@ -208,10 +208,12 @@
   <img height="500" width="5000" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/07/12140908/cloud-computing.gif" />
 </div>-->
 
-<!-- GitHub Readme Stats -->
-![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=9731265371&show_icons=true&theme=radical)
+
+
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=9731265371&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9731265371&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
 
 
 
-<!-- Top Languages Used -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9731265371&layout=compact&theme=radical)
