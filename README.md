@@ -29,7 +29,11 @@
 
 ###
 
-<h1 align="center">Anand Pattanashetti 👋</h1>
+<!--<h1 align="center">Anand Pattanashetti 👋</h1>-->
+<h1 align="center" style="color: #2ecc71; font-family: 'Arial', sans-serif;">Anand Pattanashetti 👋</h1>
+
+
+
 
 ###
 
