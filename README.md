@@ -77,6 +77,7 @@
   ☁️ <strong>Cloud:</strong> AWS<br>
   💻 <strong>Operating System:</strong> Linux & Windows<br>
   📦 <strong>Source code Repository:</strong> Git , Github<br>
+  📁<strong>Repository:</strong> Nexus , DockerHub<br>
   🛠 <strong>Build Tool:</strong> Maven<br>
   🔄 <strong>CI/CD:</strong> CodePipeline, Jenkins<br>
   <!--⚙️ <strong>Configuration Management:</strong> Terraform, Ansible<br>-->
@@ -87,7 +88,7 @@
   📜 <strong>Scripting:</strong> Shell Scripting<br>
   🗃️ <strong>DB & Cluster:</strong> MySQL 🐬, <br>
   📊 <strong>Code Quality Check:</strong> SonarQube<br>
-  👩‍💻 <strong>Programming Language:</strong> Java ☕
+  👩‍💻 <strong>Programming Language:</strong> Java ☕, SQL
 </p>
 
 ###
@@ -144,6 +145,9 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/768px-Spring_Boot.svg.png" height="40" alt="ansible logo"  />
   <img width="12" />
+    <img src="https://logowik.com/content/uploads/images/nexus-nxs2363.jpg" height="40" alt="ansible logo"  />
+  <img width="12" />
+  
   
   
   
