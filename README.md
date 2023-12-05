@@ -173,6 +173,56 @@
   <li>Utilized MySQL for the database.</li>
 </ul>
 
+<p>
+  </a> - 
+  DevOps Project: Java CI/CD Automation with Jenkins, SonarQube, and GitHub
+</p>
+<ul>
+  <li>Jenkins Setup:
+
+- Installed and configured Jenkins on a Linux server for continuous integration.
+- Integrated Jenkins with GitHub repositories for automatic build triggering upon code changes.
+</li>
+  <li> Pipeline as Code:
+
+- Developed Jenkins pipeline scripts using declarative syntax (Jenkinsfile) to automate the complete CI/CD workflow.
+- Defined stages for code compilation, unit testing, SonarQube analysis, and artifact deployment.
+
+</li>
+  <li>GitHub Integration:
+
+- Utilized GitHub webhooks to notify Jenkins about code commits, ensuring immediate feedback and continuous integration.
+</li>
+  <li>SonarQube Integration for Code Quality:
+
+- Integrated SonarQube into the pipeline to perform static code analysis and assess code quality.
+- Implemented quality gates to ensure that only high-quality code is promoted through the pipeline.
+</li>
+   <li>Automated Testing:
+
+- Integrated JUnit for Java unit testing, ensuring code quality in the CI pipeline.
+- Incorporated automated test suites for comprehensive code coverage.
+</li>
+    <li> Deployment Automation:
+
+- Configured deployment stages to deploy Java applications to test environments manually.
+- Although blue-green deployment strategies were not implemented, the deployment process was optimized for efficiency.
+</li>
+     <li>Skills Demonstrated:
+
+- Linux server administration for Jenkins installation and maintenance.
+- Jenkins pipeline scripting for defining and executing CI/CD workflows.
+- GitHub integration for version control and triggering builds.
+- SonarQube integration for static code analysis and code quality assessment.
+- Automated testing using JUnit for Java projects.
+- Basic deployment automation strategies for testing environments.</li>
+</ul>
+
+<p>
+
+
+
+
 
 <h3>Certifications</h3>
 
