@@ -2,7 +2,7 @@
   <img height="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--PJZtCgZz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8hwuxnz09e8mhfl7tl9c.gif"  />
 </div>-->
 <div align="center">
-  <img height="500" width="5000" src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif" />
+  <img height="500" width="800" src="https://xeo5.com/idl/wp-content/uploads/2021/08/DevOps-Steps-1.gif" />
 </div>
 
 
