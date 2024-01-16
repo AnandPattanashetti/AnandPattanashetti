@@ -239,6 +239,7 @@
 <ul>
   <li>Java Developer - View my certification <a href="https://github.com/9731265371/javacertificate/blob/main/ANAND%20PATTANASHETTI.pdf">here</a>.</li>
   <li>AWS Solution Architect - See my certificate <a href="https://github.com/9731265371/javacertificate/blob/main/AWS-%20LiveCertificateAnand%20Pattanashetti%20(1).png">here</a>.</li>
+   <li>DevOps Engineer - View my certification <a href="https://github.com/9731265371/javacertificate/blob/main/DevOps%20LiveCertificate-Anand%20Pattanashetti.png">here</a>.</li>
 </ul>
 
 
