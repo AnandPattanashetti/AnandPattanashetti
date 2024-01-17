@@ -66,7 +66,7 @@
 
 ###
 <ul>
-  <li>🎓👨‍🎓 Bachelor of Engineering 📊 CGPA: 6.75/10</li>
+  <li>🎓👨‍🎓 Bachelor of Engineering 📊 CGPA: 6.51/10</li>
   <li>👨‍💻🔄 Completed courses in Java programming and AWS DevOps.</li>
 </ul>
 
