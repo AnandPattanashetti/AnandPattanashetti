@@ -77,19 +77,16 @@
   ☁️ <strong>Cloud:</strong> AWS<br>
   💻 <strong>Operating System:</strong> Linux & Windows<br>
   📦 <strong>Source code Repository:</strong> Git , Github<br>
-  📁<strong>Repository:</strong> Nexus , DockerHub<br>
+  🔄 <strong>CI/CD:</strong>Jenkins<br>
   🛠 <strong>Build Tool:</strong> Maven<br>
-  🔄 <strong>CI/CD:</strong> CodePipeline, Jenkins<br>
-  <!--⚙️ <strong>Configuration Management:</strong> Terraform, Ansible<br>-->
-  🌐<strong>Web Server :</strong> Apache Tomcat<br>
-  🔍<strong>Monitoring Tool:</strong> Grafana, Prometheus,CloudWatch<br>
-  🚢 <strong>Containerization Tool:</strong> Docker 🐳, Kubernetes 🚢<br>
-  ⚙️ <strong>Configuration Management:</strong> Terraform, Ansible<br>
-  📜 <strong>Scripting:</strong> Shell Scripting<br>
-  🗃️ <strong>DB & Cluster:</strong> MySQL 🐬, <br>
   📊 <strong>Code Quality Check:</strong> SonarQube<br>
-  👩‍💻 <strong>Programming Language:</strong> Java ☕, SQL
-</p>
+  <!--⚙️ <strong>Configuration Management:</strong>Ansible<br>-->
+  🚢 <strong>Containerization Tool:</strong> Docker 🐳, Kubernetes 🚢<br>
+  ⚙️ <strong>Configuration Management:</strong>Ansible<br>
+  📁<strong>Repository:</strong> Nexus , DockerHub<br>
+  🔍<strong>Monitoring Tool:</strong> Grafana, Prometheus,CloudWatch<br>
+  👩‍💻 <strong>Programming Language:</strong> Java ☕, SQL<br>
+   </p>
 
 ###
 
@@ -161,61 +158,49 @@
 <h3>Projects</h3>
 
 ###
-<p>
-  <a href="https://github.com/9731265371/foodapp">foodapp Java Project</a> - 
-  Developed a Backend system for Food App using the Spring Boot framework.
-</p>
 
+<p>
+  </a>
+  <h4>AWS Project With AWS VPC</h4>
+</p>
 <ul>
-  <li>Implemented functionalities such as user authentication, order processing, and database management.</li>
-  <li>Utilized Spring MVC for handling HTTP requests and responses.</li>
-  <li>Employed Hibernate ORM for data persistence.</li>
-  <li>Utilized MySQL for the database.</li>
+  <li>Orchestrated creation of AWS infrastructure, including VPC, subnets, IGW, and routing tables
+</li>
+  <li>Configured EC2 instances within the VPC, ensuring optimal resource utilization and security
+</li>
+  <li>Implemented VPC peering to enable secure communication between separate VPCs.
+</li>
+  <li>Streamlined network architecture for enhanced interconnectivity and data exchange
+</li>
+  Tech Stack :
+  - AWS VPC Service
+
+   
 </ul>
+  
+</p>
 
 <p>
-  </a> - 
-  DevOps Project: Java CI/CD Automation with Jenkins, SonarQube, and GitHub
+  </a>
+  <h4>DevOps CI/CD Automation Project with Jenkins,Git,GitHub,SonarQube,Docker</h4>
 </p>
 <ul>
-  <li>Jenkins Setup:
-
-- Installed and configured Jenkins on a Linux server for continuous integration.
-- Integrated Jenkins with GitHub repositories for automatic build triggering upon code changes.
+  <li>Installed and configured Jenkins on a Linux server, enabling continuous integration.
 </li>
-  <li> Pipeline as Code:
-
-- Developed Jenkins pipeline scripts using declarative syntax (Jenkinsfile) to automate the complete CI/CD workflow.
-- Defined stages for code compilation, unit testing, SonarQube analysis, and artifact deployment.
-
+  <li>Integrated Jenkins with GitHub repositories, utilizing webhooks for automated builds.
 </li>
-  <li>GitHub Integration:
-
-- Utilized GitHub webhooks to notify Jenkins about code commits, ensuring immediate feedback and continuous integration.
+  <li>Utilized Maven for consistent project builds and integrated SonarQube for code quality assurance.
 </li>
-  <li>SonarQube Integration for Code Quality:
-
-- Integrated SonarQube into the pipeline to perform static code analysis and assess code quality.
-- Implemented quality gates to ensure that only high-quality code is promoted through the pipeline.
+  <li>Implemented Docker within the Jenkins pipeline, ensuring containerized builds and deployments.
 </li>
-   <li>Automated Testing:
+  Tech Stack :
+  - Jenkins
+  - GitHub
+  - Maven
+  - SonarQube
+  - Docker
 
-- Integrated JUnit for Java unit testing, ensuring code quality in the CI pipeline.
-- Incorporated automated test suites for comprehensive code coverage.
-</li>
-    <li> Deployment Automation:
-
-- Configured deployment stages to deploy Java applications to test environments manually.
-- Although blue-green deployment strategies were not implemented, the deployment process was optimized for efficiency.
-</li>
-     <li>Skills Demonstrated:
-
-- Linux server administration for Jenkins installation and maintenance.
-- Jenkins pipeline scripting for defining and executing CI/CD workflows.
-- GitHub integration for version control and triggering builds.
-- SonarQube integration for static code analysis and code quality assessment.
-- Automated testing using JUnit for Java projects.
-- Basic deployment automation strategies for testing environments.</li>
+   
 </ul>
 
 <p>
