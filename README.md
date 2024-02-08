@@ -70,9 +70,57 @@
   <li>👨‍💻🔄 Completed courses in Java programming and AWS DevOps.</li>
 </ul>
 
+
+
+<h3>Technical Summary</h3>
+<p>
+<ul>
+  <li>AWS EC2 : Proficient in Deployed Windows and Linux EC2 instances, hosted sample websites, and managed
+instances through AMIs.
+</li>
+  <li>AWS VPC and Networking : Designed secure VPCs, subnets, IGWs, and routing tables; configured
+VPC peering for inter-VPC communication.
+</li>
+  <li>Security and Access Management : Configured IAM roles and policies; implemented JUMP servers
+and NAT gateways for Windows and Linux security.
+</li>
+  <li>AWS S3 : Created and managed S3 buckets, uploaded files, and implemented versioning and
+cross-region replication.
+</li>
+ <li>Cloud Monitoring and Automation : Implemented Auto Scaling, Load Balancers, CloudWatch for
+monitoring, and AWS LightSail for application deployment
+</li>
+   <li>AWS Services Integration : Integrated Gmail notifications using SNS and S3; configured DNS settings
+with Route 53.
+</li>
+   <li>CloudTrail : Enabled logging and monitoring of AWS API activity.
+   <li>AWS Lambda : Developed serverless functions, leveraging AWS Lambda for event-driven computing.
+</li>
+   <li>Proficient in AWS DynamoDB : Designed and implemented NoSQL databases using DynamoDB for
+scalable and high-performance data storage.
+</li>
+   <li>Operating Systems : Competent in working on both Windows and Linux environments.
+</li>
+   <li>Source Code Repository Management : Utilized GitHub as a source code repository for version control
+and collaborative development.
+</li>
+   <li>Hands-On Jenkins Integration : Successfully integrated Jenkins for continuous integration and
+deployment pipelines, automating build and release processes.
+</li>
+   <li>Build Tool Proficiency : Expertise in Maven for building and managing Java-based projects.
+</li>
+   <li>Containerization and Orchestration : Competent in Docker for containerization and Kubernetes for
+container orchestration.
+</li>
+   <li>Configuration Management : Utilized Ansible for configuration management and automation
+</li>
+</p>
+
+
 <h3>Skills</h3>
 
 ###
+
 <p style="font-size: 1.2em;">
   ☁️ <strong>Cloud:</strong> AWS<br>
   💻 <strong>Operating System:</strong> Linux & Windows<br>
@@ -159,6 +207,7 @@
 
 ###
 
+
 <p>
   </a>
   <h4>AWS Project With AWS VPC</h4>
@@ -174,6 +223,27 @@
 </li>
   Tech Stack :
   - AWS VPC Service
+
+   
+</ul>
+  
+</p>
+
+<p>
+  </a>
+  <h4>AWS Project with AWS Route53 Service</h4>
+</p>
+<ul>
+  <li>Hosted static website on AWS Route 53 for
+</li>
+  <li>Configured DNS settings to point to the static content, ensuring seamless accessibility.
+</li>
+  <li>Utilized Route 53 features for easy domain registration and efficient management.
+</li>
+  <li>Enhanced website performance and availability through AWS Route 53's robust infrastructure.
+</li>
+  Tech Stack :
+  - AWS Route53
 
    
 </ul>
