@@ -75,44 +75,44 @@
 <h3>Technical Summary</h3>
 <p>
 <ul>
-  <li>AWS EC2 : Proficient in Deployed Windows and Linux EC2 instances, hosted sample websites, and managed
+  <li><strong>AWS EC2 :</strong> Proficient in Deployed Windows and Linux EC2 instances, hosted sample websites, and managed
 instances through AMIs.
 </li>
-  <li>AWS VPC and Networking : Designed secure VPCs, subnets, IGWs, and routing tables; configured
+  <li><strong>AWS VPC and Networking : </strong>Designed secure VPCs, subnets, IGWs, and routing tables; configured
 VPC peering for inter-VPC communication.
 </li>
-  <li>Security and Access Management : Configured IAM roles and policies; implemented JUMP servers
+  <li><strong>Security and Access Management : </strong>Configured IAM roles and policies; implemented JUMP servers
 and NAT gateways for Windows and Linux security.
 </li>
-  <li>AWS S3 : Created and managed S3 buckets, uploaded files, and implemented versioning and
+  <li><strong>AWS S3 : </strong>Created and managed S3 buckets, uploaded files, and implemented versioning and
 cross-region replication.
 </li>
- <li>Cloud Monitoring and Automation : Implemented Auto Scaling, Load Balancers, CloudWatch for
+ <li><strong>Cloud Monitoring and Automation : </strong>Implemented Auto Scaling, Load Balancers, CloudWatch for
 monitoring, and AWS LightSail for application deployment
 </li>
-   <li>AWS Services Integration : Integrated Gmail notifications using SNS and S3; configured DNS settings
+   <li><strong>AWS Services Integration : </strong>Integrated Gmail notifications using SNS and S3; configured DNS settings
 with Route 53.
 </li>
-   <li>CloudTrail : Enabled logging and monitoring of AWS API activity.
+   <li><strong>CloudTrail :</strong> Enabled logging and monitoring of AWS API activity.
    <li>AWS Lambda : Developed serverless functions, leveraging AWS Lambda for event-driven computing.
 </li>
-   <li>Proficient in AWS DynamoDB : Designed and implemented NoSQL databases using DynamoDB for
+   <li><strong>Proficient in AWS DynamoDB :</strong> Designed and implemented NoSQL databases using DynamoDB for
 scalable and high-performance data storage.
 </li>
-   <li>Operating Systems : Competent in working on both Windows and Linux environments.
+   <li><strong>Operating Systems : </strong>Competent in working on both Windows and Linux environments.
 </li>
-   <li>Source Code Repository Management : Utilized GitHub as a source code repository for version control
+   <li><strong>Source Code Repository Management :</strong> Utilized GitHub as a source code repository for version control
 and collaborative development.
 </li>
-   <li>Hands-On Jenkins Integration : Successfully integrated Jenkins for continuous integration and
+   <li><strong>Hands-On Jenkins Integration : </strong>Successfully integrated Jenkins for continuous integration and
 deployment pipelines, automating build and release processes.
 </li>
-   <li>Build Tool Proficiency : Expertise in Maven for building and managing Java-based projects.
+   <li><strong>Build Tool Proficiency :</strong> Expertise in Maven for building and managing Java-based projects.
 </li>
-   <li>Containerization and Orchestration : Competent in Docker for containerization and Kubernetes for
+   <li><strong>Containerization and Orchestration :</strong> Competent in Docker for containerization and Kubernetes for
 container orchestration.
 </li>
-   <li>Configuration Management : Utilized Ansible for configuration management and automation
+   <li><strong>Configuration Management : </strong> Utilized Ansible for configuration management and automation
 </li>
 </p>
 
@@ -135,6 +135,9 @@ container orchestration.
   🔍<strong>Monitoring Tool:</strong> Grafana, Prometheus,CloudWatch<br>
   👩‍💻 <strong>Programming Language:</strong> Java ☕, SQL<br>
    </p>
+
+
+   
 
 ###
 
@@ -221,7 +224,7 @@ container orchestration.
 </li>
   <li>Streamlined network architecture for enhanced interconnectivity and data exchange
 </li>
-  Tech Stack :
+  <strong>Tech Stack :</strong>
   - AWS VPC Service
 
    
@@ -242,7 +245,7 @@ container orchestration.
 </li>
   <li>Enhanced website performance and availability through AWS Route 53's robust infrastructure.
 </li>
-  Tech Stack :
+  <strong>Tech Stack :</strong>
   - AWS Route53
 
    
@@ -263,7 +266,7 @@ container orchestration.
 </li>
   <li>Implemented Docker within the Jenkins pipeline, ensuring containerized builds and deployments.
 </li>
-  Tech Stack :
+ <strong> Tech Stack :</strong>
   - Jenkins
   - GitHub
   - Maven
@@ -292,9 +295,9 @@ container orchestration.
 
 
 <ul>
-  <li>Java Developer - View my certification <a href="https://github.com/9731265371/javacertificate/blob/main/ANAND%20PATTANASHETTI.pdf">click here</a>.</li>
-  <li>AWS Solution Architect - See my certificate <a href="https://github.com/9731265371/javacertificate/blob/main/AWS-%20LiveCertificateAnand%20Pattanashetti%20(1).png">click here</a>.</li>
-   <li>DevOps Engineer - View my certification <a href="https://github.com/9731265371/javacertificate/blob/main/DevOps%20LiveCertificate-Anand%20Pattanashetti.png">click here</a>.</li>
+  <li><strong>Java Developer -</strong> View my certification <a href="https://github.com/9731265371/javacertificate/blob/main/ANAND%20PATTANASHETTI.pdf">click here</a>.</li>
+  <li><strong>AWS Solution Architect -</strong> See my certificate <a href="https://github.com/9731265371/javacertificate/blob/main/AWS-%20LiveCertificateAnand%20Pattanashetti%20(1).png">click here</a>.</li>
+   <li><strong>DevOps Engineer -</strong> View my certification <a href="https://github.com/9731265371/javacertificate/blob/main/DevOps%20LiveCertificate-Anand%20Pattanashetti.png">click here</a>.</li>
 </ul>
 
 
