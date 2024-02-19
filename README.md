@@ -128,7 +128,7 @@ container orchestration.
   🔄 <strong>CI/CD:</strong>Jenkins<br>
   🛠 <strong>Build Tool:</strong> Maven<br>
   📊 <strong>Code Quality Check:</strong> SonarQube<br>
-  <!--⚙️ <strong>Configuration Management:</strong>Ansible<br>-->
+  <!--⚙️ <strong>Configuration Management:</strong>Ansible , Terraform <br>-->
   🚢 <strong>Containerization Tool:</strong> Docker 🐳, Kubernetes 🚢<br>
   ⚙️ <strong>Configuration Management:</strong>Ansible<br>
   📁<strong>Repository:</strong> Nexus , DockerHub<br>
