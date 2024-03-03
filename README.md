@@ -114,6 +114,10 @@ container orchestration.
 </li>
    <li><strong>Configuration Management : </strong> Utilized Ansible for configuration management and automation
 </li>
+  </li>
+   <li><strong>Infrastructure as Code (IaC): </strong> Skilled in Terraform for declarative configuration and automation of cloud.
+</li>
+
 </p>
 
 
