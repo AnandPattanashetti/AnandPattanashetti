@@ -213,7 +213,7 @@ container orchestration.
 
 <p>
   </a>
-  <h4>DevOps CI/CD PipelineC</h4>
+  <h4>DevOps CI/CD Pipeline</h4>
 </p>
 <ul>
   <li>Established Terraform provisioning setup for infrastructure configuration
