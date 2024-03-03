@@ -235,8 +235,14 @@ container orchestration.
   <li>Simultaneously, ensured deployment in Docker for enhanced containerized scalability
 </li>
   <strong>Tech Stack :</strong>
-  - Terraform,Ubuntu Server,Git,GitHub,Jenkins,Maven,Tomcat,Docker
-
+  - Terraform
+  - Ubuntu Server
+  - Git
+  - GitHub
+  - Jenkins
+  - Maven
+  - Tomcat
+  - Docker
 
    
 </ul>
@@ -259,8 +265,13 @@ deployment.
 
 </li>
   <strong>Tech Stack :</strong>
-  - IAM, S3,CodeCommit,CodeBuild,CodePipeline,git,CodeDeploy
-
+  - IAM
+  - S3
+  - CodeCommit
+  - CodeBuild
+  - CodePipeline
+  - Git
+  - CodeDeploy
 
    
 </ul>
