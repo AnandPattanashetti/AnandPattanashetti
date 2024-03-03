@@ -213,19 +213,26 @@ container orchestration.
 
 <p>
   </a>
-  <h4>AWS Project With AWS VPC</h4>
+  <h4>DevOps CI/CD PipelineC</h4>
 </p>
 <ul>
-  <li>Orchestrated creation of AWS infrastructure, including VPC, subnets, IGW, and routing tables
+  <li>Established Terraform provisioning setup for infrastructure configuration
 </li>
-  <li>Configured EC2 instances within the VPC, ensuring optimal resource utilization and security
+  <li>Integrated Jenkins with GitHub repositories, utilizing webhooks for automated builds.
+
 </li>
-  <li>Implemented VPC peering to enable secure communication between separate VPCs.
+  <li>Leveraged Maven for streamlined and consistent project builds,
+
 </li>
-  <li>Streamlined network architecture for enhanced interconnectivity and data exchange
+  <li>Deployed application seamlessly on Tomcat for optimal server hosting
+</li>
+
+</li>
+  <li>Simultaneously, ensured deployment in Docker for enhanced containerized scalability
 </li>
   <strong>Tech Stack :</strong>
-  - AWS VPC Service
+  - Terraform,Ubuntu Server,Git,GitHub,Jenkins,Maven,Tomcat,Docker
+
 
    
 </ul>
@@ -234,19 +241,22 @@ container orchestration.
 
 <p>
   </a>
-  <h4>AWS Project with AWS Route53 Service</h4>
+  <h4>AWS Complete CI/CD</h4>
 </p>
 <ul>
-  <li>Hosted static website on AWS Route 53 for
+  <li>Managed Git repository service on AWS, by using CodeCommit ensuring secure and scalable version control.
+
 </li>
-  <li>Configured DNS settings to point to the static content, ensuring seamless accessibility.
+  <li>Fully automated build service streamlining source code compilation and testing to produce consistent,
+deployable artifacts.
 </li>
-  <li>Utilized Route 53 features for easy domain registration and efficient management.
-</li>
-  <li>Enhanced website performance and availability through AWS Route 53's robust infrastructure.
+  <li>End-to-end CI/CD service orchestrating seamless automation across CodeCommit, CodeBuild, and
+deployment.
+
 </li>
   <strong>Tech Stack :</strong>
-  - AWS Route53
+  - IAM, S3,CodeCommit,CodeBuild,CodePipeline,git
+
 
    
 </ul>
