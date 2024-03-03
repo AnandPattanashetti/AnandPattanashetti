@@ -259,7 +259,7 @@ deployment.
 
 </li>
   <strong>Tech Stack :</strong>
-  - IAM, S3,CodeCommit,CodeBuild,CodePipeline,git
+  - IAM, S3,CodeCommit,CodeBuild,CodePipeline,git,CodeDeploy
 
 
    
