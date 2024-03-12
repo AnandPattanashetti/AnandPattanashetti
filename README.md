@@ -53,7 +53,7 @@
 
 <p>I am genuinely excited about the prospect of applying my knowledge and collaborating with experienced professionals to further develop my expertise in AWS, DevOps, and Java. Ready to bring a fresh perspective to the field, I am confident in my ability to make meaningful contributions to any team or project.</p>-->
 
-<p>Recent graduate with proficiency in AWS, and DevOps, Java  seeking a career in AWS and DevOps. Completed rigorous training in these technologies and eager to apply knowledge to real-world scenarios. Excited about contributing to innovative projects and continuously learning in a professional setting. Ready to bring a fresh perspective and make a meaningful impact in the AWS and DevOps landscape.</p>
+<p>Proficient in AWS CI/CD and DevOps tools, I ensure efficient software delivery pipelines through hands-on experience in implementing, and optimizing workflows. My expertise extends to leveraging diverse DevOps tools, fostering automation. By integrating cutting-edge technologies, I drive continuous improvement in software delivery, thriving in fast-paced environments and contributing to transformative projects with dedication to excellence.</p>
 
 
 
