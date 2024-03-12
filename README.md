@@ -128,9 +128,9 @@ container orchestration.
 <p style="font-size: 1.2em;">
   ☁️ <strong>Cloud:</strong> AWS<br>
   💻 <strong>Operating System:</strong> Linux & Windows<br>
-  📦 <strong>Source code Repository:</strong> Git , Github<br>
-  🔄 <strong>CI/CD:</strong>Jenkins<br>
-  🛠 <strong>Build Tool:</strong> Maven<br>
+  📦 <strong>Source code Repository:</strong> Git , Github, CodeCommit<br>
+  🔄 <strong>CI/CD:</strong>Jenkins, CodePipeline<br>
+  🛠 <strong>Build Tool:</strong> Maven, CodeBuild<br>
   📊 <strong>Code Quality Check:</strong> SonarQube<br>
   <!--⚙️ <strong>Configuration Management:</strong>Ansible , Terraform <br>-->
   🚢 <strong>Containerization Tool:</strong> Docker 🐳, Kubernetes 🚢<br>
