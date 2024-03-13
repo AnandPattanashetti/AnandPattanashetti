@@ -73,49 +73,49 @@
 
 
 <h3>Technical Summary</h3>
+<h3>AWS</h3>
 <p>
 <ul>
-  <li><strong>AWS EC2 :</strong> Proficient in Deployed Windows and Linux EC2 instances, hosted sample websites, and managed
-instances through AMIs.
+  <li><strong>AWS EC2 :</strong>Proficient in managing diverse AWS EC2 instances, including both Windows and Linux environments, employing efficient AMIs for streamlined instance management.
 </li>
-  <li><strong>AWS VPC and Networking : </strong>Designed secure VPCs, subnets, IGWs, and routing tables; configured
-VPC peering for inter-VPC communication.
+  <li><strong>AWS VPC and Networking : </strong>Designed and implemented robust AWS VPC architectures, encompassing secure subnets, Internet Gateways (IGWs), and intricate routing tables to ensure optimal networking.
 </li>
-  <li><strong>Security and Access Management : </strong>Configured IAM roles and policies; implemented JUMP servers
-and NAT gateways for Windows and Linux security.
+  <li><strong>Security and Access Management : </strong>Implemented comprehensive security measures within AWS environments, including IAM role configurations and the establishment of JUMP servers and NAT gateways to fortify Windows and Linux infrastructures.
 </li>
-  <li><strong>AWS S3 : </strong>Created and managed S3 buckets, uploaded files, and implemented versioning and
-cross-region replication.
+  <li><strong>AWS S3 : </strong>Orchestrated AWS S3 infrastructure, proficiently managing buckets, enforcing versioning, and cross-region replication strategies to ensure data resilience and accessibility.
 </li>
- <li><strong>Cloud Monitoring and Automation : </strong>Implemented Auto Scaling, Load Balancers, CloudWatch for
-monitoring, and AWS LightSail for application deployment
+ <li><strong>Cloud Monitoring and Automation : </strong>Leveraged CloudWatch and Auto Scaling for proactive monitoring and scalability, while also utilizing AWS LightSail for seamless application deployment.
 </li>
-   <li><strong>AWS Services Integration : </strong>Integrated Gmail notifications using SNS and S3; configured DNS settings
-with Route 53.
+   <li><strong>AWS Services Integration : </strong>Integrated various AWS services such as SNS and S3 for enhanced functionality and managed DNS settings efficiently through Route 53.
+
 </li>
-   <li><strong>CloudTrail :</strong> Enabled logging and monitoring of AWS API activity.
-   <li>AWS Lambda : Developed serverless functions, leveraging AWS Lambda for event-driven computing.
+   <li><strong>CloudTrail :</strong>Enabled CloudTrail to monitor and log AWS API activities, ensuring adherence to security protocols and regulatory requirements.
+   <li>AWS Lambda : Developed serverless functions using AWS Lambda, enabling efficient event-driven computing within the AWS ecosystem.
 </li>
-   <li><strong>Proficient in AWS DynamoDB :</strong> Designed and implemented NoSQL databases using DynamoDB for
-scalable and high-performance data storage.
+   <li><strong>Proficient in AWS DynamoDB :</strong>Demonstrated proficiency in designing and implementing scalable NoSQL databases utilizing AWS DynamoDB for high-performance data storage solutions.
 </li>
-   <li><strong>Operating Systems : </strong>Competent in working on both Windows and Linux environments.
+<li><strong>Proficient in AWS CodeCommit : </strong> Managed source code repositories using AWS CodeCommit, ensuring secure and scalable version control for collaborative development efforts </li>
+<li><strong>Proficient in AWS CodeBuild : </strong> Orchestrated build processes efficiently with AWS CodeBuild, automating compilation, testing, and packaging of applications to streamline development workflows.</li>
+<li><strong>Proficient in AWS CodeDeploy : </strong>Implemented robust deployment strategies using AWS CodeDeploy, facilitating automated and reliable application deployments across various environments. </li>
+<li><strong>Proficient in AWS CodePipeline : </strong>Established end-to-end continuous integration and delivery pipelines with AWS CodePipeline, enabling seamless automation of code changes from development to production environments. </li>
+
+<h3>DevOps</h3>
+
+   <li><strong>Operating Systems : </strong> 
+Competent in managing both Windows and Linux operating systems, ensuring seamless operations across diverse environments.
 </li>
-   <li><strong>Source Code Repository Management :</strong> Utilized GitHub as a source code repository for version control
-and collaborative development.
+   <li><strong>Source Code Repository Management :</strong> Utilized GitHub for version control and collaborative development, ensuring efficient source code repository management.
 </li>
-   <li><strong>Hands-On Jenkins Integration : </strong>Successfully integrated Jenkins for continuous integration and
-deployment pipelines, automating build and release processes.
+   <li><strong>Proficient in Jenkins Integration : </strong>Successfully integrated Jenkins for continuous integration and deployment pipelines, automating build and release processes to enhance development efficiency.
 </li>
-   <li><strong>Build Tool Proficiency :</strong> Expertise in Maven for building and managing Java-based projects.
+   <li><strong>Build Tool Proficiency :</strong>Demonstrated expertise in Maven for building and managing Java-based projects, ensuring streamlined development workflows.
 </li>
-   <li><strong>Containerization and Orchestration :</strong> Competent in Docker for containerization and Kubernetes for
-container orchestration.
+   <li><strong>Containerization and Orchestration :</strong> Proficient in Docker for containerization and Kubernetes for orchestrating containers, ensuring efficient deployment and management of applications.
 </li>
-   <li><strong>Configuration Management : </strong> Utilized Ansible for configuration management and automation
+   <li><strong>Configuration Management : </strong> Employed Ansible for configuration management and automation, optimizing infrastructure setups and maintenance processes.
 </li>
   </li>
-   <li><strong>Infrastructure as Code (IaC): </strong> Skilled in Terraform for declarative configuration and automation of cloud.
+   <li><strong>Infrastructure as Code (IaC): </strong> Skilled in Terraform for declarative configuration and automation of cloud resources, ensuring efficient Infrastructure as Code (IaC) implementations.
 </li>
 
 </p>
