@@ -37,7 +37,7 @@
 
 ###
 
-<h2>Hello, I'm Anand Pattanashetti, a recent graduate with a passion for AWS DevOps.</h2>
+<h2>Hello, I'm Anand Pattanashetti, proficient in AWS DevOps with a strong background</h2>
 
 ###
 
