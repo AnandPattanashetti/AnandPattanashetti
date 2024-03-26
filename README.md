@@ -1,8 +1,8 @@
 
 
-<div align="center">
+<!--<div align="center">
   <img height="300" width="1200" src="https://github.com/9731265371/9731265371/blob/main/Teal%20Geometric%20We%20Are%20Hiring%20Corporate%20LinkedIn%20Banner.png" />
-</div>
+</div>-->
 
 <div style="text-align: center;">
   <img style="max-width: 100%;" src="https://github.com/9731265371/9731265371/blob/main/Teal%20Geometric%20We%20Are%20Hiring%20Corporate%20LinkedIn%20Banner.png" />
