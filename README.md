@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img height="300" width="1200" src="https://github.com/9731265371/9731265371/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(2).png" />
+  <img height="300" width="1200" src="https://github.com/9731265371/9731265371/blob/main/GitHub%20Banner.png" />
 </div>
 <!--https://github.com/9731265371/9731265371/assets/134671487/0417bf9b-acc2-4442-a310-3e1a4e85567b-->
 
