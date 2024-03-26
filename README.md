@@ -245,7 +245,9 @@ Competent in managing both Windows and Linux operating systems, ensuring seamles
   - Jenkins
   - Maven
   - Tomcat
-  - Docker
+  - Docker <br>
+   <span style="font-size: larger;"> <strong>📰 Project Work Blog : </strong</span>
+  <a href="https://medium.com/@anandshetty010/streamlining-web-application-deployment-a-comprehensive-guide-to-jenkins-maven-tomcat-and-28b272f432de">Project Work Blog</a>
 
    
 </ul>
