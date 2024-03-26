@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img height="300" width="1200" src="https://github.com/9731265371/9731265371/blob/main/GitHub%20Banner.png" />
+  <img height="300" width="1200" src="https://github.com/9731265371/9731265371/blob/main/Teal%20Geometric%20We%20Are%20Hiring%20Corporate%20LinkedIn%20Banner.png" />
 </div>
 <!--https://github.com/9731265371/9731265371/assets/134671487/0417bf9b-acc2-4442-a310-3e1a4e85567b-->
 
