@@ -1,5 +1,5 @@
-<!--<div align="center">
-  <img height="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--PJZtCgZz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8hwuxnz09e8mhfl7tl9c.gif"  />
+![Purple Modern Gaming LinkedIn Banner](https://github.com/9731265371/9731265371/assets/134671487/0417bf9b-acc2-4442-a310-3e1a4e85567b)<!--<div align="center">
+  <img height="400" src=""  />
 </div>-->
 <div align="center">
   <img height="400" width="1000" src="https://xeo5.com/idl/wp-content/uploads/2021/08/DevOps-Steps-1.gif" />
