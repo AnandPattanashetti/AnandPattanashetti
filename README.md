@@ -1,4 +1,4 @@
-![image](https://github.com/9731265371/9731265371/assets/134671487/683ab822-f124-4395-b4ec-9702ba740ff0)
+
 
 <!--<div align="center">
   <img height="300" width="1200" src="https://github.com/9731265371/9731265371/blob/main/Teal%20Geometric%20We%20Are%20Hiring%20Corporate%20LinkedIn%20Banner.png" />
