@@ -1,4 +1,4 @@
-
+![image](https://github.com/9731265371/9731265371/assets/134671487/683ab822-f124-4395-b4ec-9702ba740ff0)
 
 <!--<div align="center">
   <img height="300" width="1200" src="https://github.com/9731265371/9731265371/blob/main/Teal%20Geometric%20We%20Are%20Hiring%20Corporate%20LinkedIn%20Banner.png" />
@@ -238,16 +238,16 @@ Competent in managing both Windows and Linux operating systems, ensuring seamles
   <li>Simultaneously, ensured deployment in Docker for enhanced containerized scalability
 </li>
   <strong>Tech Stack :</strong>
-  - Terraform
+<strong>  - Terraform
   - Ubuntu Server
   - Git
   - GitHub
   - Jenkins
   - Maven
   - Tomcat
-  - Docker <br>
-   <span style="font-size: larger;"> <strong>📰 Project Work Blog : </strong</span>
-  <a href="https://medium.com/@anandshetty010/streamlining-web-application-deployment-a-comprehensive-guide-to-jenkins-maven-tomcat-and-28b272f432de">Project Work Blog</a>
+  - Docker</strong> <br>
+   <span style="font-size: larger;"> 📰<strong> Project Work Blog :</strong> </span>
+  <a href="https://medium.com/@anandshetty010/streamlining-web-application-deployment-a-comprehensive-guide-to-jenkins-maven-tomcat-and-28b272f432de">Project Work Blog</a> <br>
 
    
 </ul>
@@ -270,13 +270,13 @@ deployment.
 
 </li>
   <strong>Tech Stack :</strong>
-  - IAM
+ <strong> - IAM
   - S3
   - CodeCommit
   - CodeBuild
   - CodePipeline
   - Git
-  - CodeDeploy
+  - CodeDeploy</strong>
 
    
 </ul>
@@ -297,11 +297,11 @@ deployment.
   <li>Implemented Docker within the Jenkins pipeline, ensuring containerized builds and deployments.
 </li>
  <strong> Tech Stack :</strong>
-  - Jenkins
+ <strong> - Jenkins
   - GitHub
   - Maven
   - SonarQube
-  - Docker
+  - Docker</strong>
 
    
 </ul>
