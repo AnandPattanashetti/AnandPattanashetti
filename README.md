@@ -347,7 +347,7 @@ deployment.
   <span style="font-size: larger;">💼 LinkedIn:</span>
   <a href="https://www.linkedin.com/in/anand-p9731265371/">LinkedIn Profile</a><br>
    <span style="font-size: larger;"> 📰 TechBlog:</span>
-  <a href="https://medium.com/@anandshetty010">TechBlog</a>
+  <a href="https://medium.com/@anandshetty010">TechBlog</a> <br>
    <span style="font-size: larger;"> 📋 ProfileHub:</span>
   <a href="https://linktr.ee/anandshetty">ProfileHub</a>
   
