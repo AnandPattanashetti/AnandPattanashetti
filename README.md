@@ -187,8 +187,8 @@ Competent in managing both Windows and Linux operating systems, ensuring seamles
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3HvZbcbnfbfyWwLnIk7rJREZH-M9IuTWfPsBUev-b&s" height="40" alt="ansible logo"  />
   <img width="12" />
-   <img src="https://ww2.freelogovectors.net/wp-content/uploads/2018/07/grafana-logo.png" height="40" alt="ansible logo"  />
-  <img width="12" />
+  <!-- <img src="https://ww2.freelogovectors.net/wp-content/uploads/2018/07/grafana-logo.png" height="40" alt="ansible logo"  />
+  <img width="12" />-->
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" height="40" alt="ansible logo"  />
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Is6mP3wpvEZFXK0AC75KPeZTQQ3J4395s7AdsMEfDA&s" height="40" alt="ansible logo"  />
