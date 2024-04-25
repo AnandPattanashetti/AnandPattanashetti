@@ -329,7 +329,7 @@ deployment.
 
 <ul>
   <li><strong>Java Developer -</strong> View my certification <a href="https://github.com/9731265371/javacertificate/blob/main/ANAND%20PATTANASHETTI.pdf">click here</a>.</li>
-  <li><strong>AWS Solution Architect -</strong> See my certificate <a href="https://github.com/9731265371/javacertificate/blob/main/AWS-%20LiveCertificateAnand%20Pattanashetti%20(1).png">click here</a>.</li>
+  <li><strong>AWS -</strong> See my certificate <a href="https://github.com/9731265371/javacertificate/blob/main/AWS-%20LiveCertificateAnand%20Pattanashetti%20(1).png">click here</a>.</li>
    <li><strong>DevOps Engineer -</strong> View my certification <a href="https://github.com/9731265371/javacertificate/blob/main/DevOps%20LiveCertificate-Anand%20Pattanashetti.png">click here</a>.</li>
 </ul>
 
