@@ -343,7 +343,7 @@ deployment.
 
 <p>
   <span style="font-size: larger;">📧 Email:</span>
-  <a href="mailto:anandshetty010@gmail.com">anandshetty010@gmail.com</a><br>
+  <a href="mailto:ashetti.devops@gmail.com">ashetti.devops@gmail.com</a><br>
   <span style="font-size: larger;">💼 LinkedIn:</span>
   <a href="https://www.linkedin.com/in/anand-p9731265371/">LinkedIn Profile</a><br>
    <span style="font-size: larger;"> 📰 TechBlog:</span>
