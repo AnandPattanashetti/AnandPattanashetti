@@ -67,7 +67,7 @@
 
 ###
 
-<h3>Education</h3>
+<h3>EDUCATION</h3>
 
 ###
 <ul>
@@ -76,9 +76,48 @@
 </ul>
 
 
+<h3>EXPERIENCE</h3> 
+<h4>Cloud Kinetics   APRIL 2022 - Present</h4>
+
+<p>
+<li>Led the deployment of a Java-based banking application, integrating Jenkins, Docker, and Kubernetes to
+establish efficient CI/CD pipelines. <strong>This effort resulted in a 30% reduction in infrastructure costs and a 50%
+improvement in system performance through advanced containerization and orchestration.</strong> The project
+involved SonarQube for code quality assurance, OWASP dependency checks for enhanced security, and
+Ansible for infrastructure automation, ensuring a secure and efficient deployment process.
+</li>
+
+<li>Led CI/CD pipeline development with Terraform for infrastructure, Jenkins for GitHub integration, and
+Maven for consistent builds. Ensured seamless deployment on Tomcat with Docker for scalable containers.
+This approach boosted deployment flexibility and overall system efficiency
+</li>
+
+<li>
+  I have extensive experience with <strong> AWS </strong>, particularly in designing and implementing <strong>CI/CD pipelines </strong>that
+improve scalability, reliability, and performance.
+</li>
+
+<li>
+  Proficient in source code management with a proven ability to resolve technical challenges and optimize
+automation scripts, leading to enhanced operational efficiency
+</li>
+
+<li>
+  Extensive experience with various cloud services, particularly AWS; contributed to improved scalability,
+reliability, and performance
+</li>
+  <li>
+    Implemented monitoring stacks, alerts, and dashboards for effective system monitoring, facilitating quick
+responses to dynamic changes
+  </li>
+  <li>
+    Developed a backend system for a restaurant application using Spring Boot, implementing key features like
+user authentication, order processing, and database management.
+  </li>
+</p>
 
 <h3>Technical Summary</h3>
-<h3>AWS</h3>
+<h4>AWS</h4>
 <p>
 <ul>
   <li><strong>AWS EC2 :</strong>Proficient in managing diverse AWS EC2 instances, including both Windows and Linux environments, employing efficient AMIs for streamlined instance management.
@@ -104,7 +143,7 @@
 <li><strong>Proficient in AWS CodeDeploy : </strong>Implemented robust deployment strategies using AWS CodeDeploy, facilitating automated and reliable application deployments across various environments. </li>
 <li><strong>Proficient in AWS CodePipeline : </strong>Established end-to-end continuous integration and delivery pipelines with AWS CodePipeline, enabling seamless automation of code changes from development to production environments. </li>
 
-<h3>DevOps</h3>
+<h4>DevOps</h4>
 
    <li><strong>Operating Systems : </strong> 
 Competent in managing both Windows and Linux operating systems, ensuring seamless operations across diverse environments.
