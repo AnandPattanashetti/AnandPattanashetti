@@ -7,6 +7,10 @@
 <div style="text-align: center;">
   <img style="max-width: 100%;" src="https://github.com/9731265371/9731265371/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" />
 </div>
+
+<div style="text-align: center;">
+  <img style="max-width: 100%;" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052457/DevOps-Steps-1-min.gif" />
+</div>
 <!--https://github.com/9731265371/9731265371/assets/134671487/0417bf9b-acc2-4442-a310-3e1a4e85567b-->
 
 ###
