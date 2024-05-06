@@ -84,6 +84,14 @@
 <h4>Cloud Kinetics   APRIL 2022 - Present</h4>
 
 <p>
+
+  <li>
+    Developers push code to a shared repo like GitHub, triggering a webhook that starts a Jenkins build. Jenkins pulls the
+code, compiles it, builds artifacts, handles dependencies, and creates environments. Using AWS EKS, it builds a
+container and pushes the image to an AWS or Docker registry. Jenkins then deploys the updated container to a
+Kubernetes cluster for continuous deployment (CD). After deployment, Grafana visualizes the app's performance using
+data from AWS Monitor, providing insights into system health and stability.
+  </li>
 <li>Led the deployment of a Java-based banking application, integrating Jenkins, Docker, and Kubernetes to
 establish efficient CI/CD pipelines. <strong>This effort resulted in a 30% reduction in infrastructure costs and a 50%
 improvement in system performance through advanced containerization and orchestration.</strong> The project
@@ -265,35 +273,63 @@ Competent in managing both Windows and Linux operating systems, ensuring seamles
 
 <p>
   </a>
-  <h4>DevOps CI/CD Pipeline</h4>
+  <h4>Banking Application</h4>
 </p>
 <ul>
    
-  <li>Established <a href="https://github.com/9731265371/TerraformProvisioning" >Terraform</a> provisioning setup for infrastructure configuration
+  <li>Deployed a Java-based banking application using Jenkins as the CI/CD tool, achieving a 30% decrease in
+deployment time compared to manual methods.
 </li>
-  <li>Integrated Jenkins with GitHub repositories, utilizing webhooks for automated builds.
+  <li>Configured Docker containers to deploy the application, streamlining the deployment process and reducing the time
+to launch new instances by 50%.
 
 </li>
-  <li>Leveraged Maven for streamlined and consistent project builds,
+  <li>Orchestrated Kubernetes clusters to host the banking application, providing scalable infrastructure and high
+availability for production workloads.
 
 </li>
-  <li>Deployed application seamlessly on Tomcat for optimal server hosting
+  <li>Implemented CI/CD pipelines with Jenkins, automating the build, test, and deployment processes, leading to a 30%
+reduction in manual effort and improved development cycles
 </li>
 
 </li>
-  <li>Simultaneously, ensured deployment in Docker for enhanced containerized scalability
+  <li>Enabled flexible deployment strategies by setting up Docker and Kubernetes environments, allowing for both
+standalone Docker containers and Kubernetes-managed clusters. This flexibility increased scalability by 50% in
+real-time operations.
 </li>
-  <strong>Tech Stack :</strong>
-<strong>  - Terraform
-  - Ubuntu Server
-  - Git
-  - GitHub
-  - Jenkins
-  - Maven
-  - Tomcat
-  - Docker</strong> <br>
-   <span style="font-size: larger;"> 📰<strong> Project Work Blog :</strong> </span>
-  <a href="https://medium.com/@anandshetty010/streamlining-web-application-deployment-a-comprehensive-guide-to-jenkins-maven-tomcat-and-28b272f432de">Project Work Blog</a> <br>
+
+<li>By integrating Jenkins with Docker and Kubernetes, it achieved a robust and efficient automated deployment
+process, significantly enhancing the team's ability to deliver and maintain the application.</li>
+  
+   
+</ul>
+  
+</p>
+
+<p>
+  </a>
+  <h4>CI/CD Pipeline For Container-Based Workloads: A DevOps Strategy</h4>
+</p>
+<ul>
+  <li>After coding, developers push the code to a shared repository such as GitHub. Frequently merging the code and
+validating it is one way to ensure CI is error-free. To start the process, a GitHub webhook triggers a Jenkins project
+build. When code changes are made and committed to the repository, the pipeline gets activated. It downloads the
+code and triggers a build process.
+
+</li>
+  <li>In this step, the code is compiled, artifacts are built, dependencies are sorted out and stored in the repository.
+Environments are created, containers are built and images are stored for roll out. This is followed by the testing
+processes. The Jenkins build job uses a dynamic build agent in AWS Elastic Kubernetes Service (EKS) to perform a
+container build process
+</li>
+  <li>A container image is created from the code in source control and is then pushed to an AWS/Docker Container
+Registry..
+
+</li>
+
+<li>Using the process of CD, Jenkins deploys an updated container image to the Kubernetes cluster</li>
+<li>A Grafana instance provides visual dashboards of the application performance based on the data from AWS Monitor.</li>
+
 
    
 </ul>
@@ -302,52 +338,23 @@ Competent in managing both Windows and Linux operating systems, ensuring seamles
 
 <p>
   </a>
-  <h4>AWS Complete CI/CD</h4>
+  <h4>End-To-End DevOps Tools On AWS</h4>
 </p>
 <ul>
-  <li>Managed Git repository service on AWS, by using CodeCommit ensuring secure and scalable version control.
+  <li>CodeCommit: This is your Git-based source code repository in AWS. You use it to store, manage, and track your
+codebase, allowing for collaboration and version control
+</li>
+  <li>CodeBuild: This is the continuous integration service that compiles your code and builds artifacts like executables or
+Docker images. It fetches code from repositories like CodeCommit and provides various build environments.
+</li>
+  <li>CodeDeploy: This service automated code deployment to AWS resources like EC2 instances or Lambda functions. It
+helps you manage releases, track deployment history, and roll back if needed.
+</li>
+  <li>CodePipeline: This service orchestrates your entire CI/CD workflow. It integrates with CodeCommit, CodeBuild, and
+CodeDeploy to automate the pipeline from code commit to deployment, allowing you to define stages for building,
+testing, and deploying your application.
+</li>
 
-</li>
-  <li>Fully automated build service streamlining source code compilation and testing to produce consistent,
-deployable artifacts.
-</li>
-  <li>End-to-end CI/CD service orchestrating seamless automation across CodeCommit, CodeBuild, and
-deployment.
-
-</li>
-  <strong>Tech Stack :</strong>
- <strong> - IAM
-  - S3
-  - CodeCommit
-  - CodeBuild
-  - CodePipeline
-  - Git
-  - CodeDeploy</strong>
-
-   
-</ul>
-  
-</p>
-
-<p>
-  </a>
-  <h4>DevOps CI/CD Automation Project with Jenkins,Git,GitHub,SonarQube,Docker</h4>
-</p>
-<ul>
-  <li>Installed and configured Jenkins on a Linux server, enabling continuous integration.
-</li>
-  <li>Integrated Jenkins with GitHub repositories, utilizing webhooks for automated builds.
-</li>
-  <li>Utilized Maven for consistent project builds and integrated SonarQube for code quality assurance.
-</li>
-  <li>Implemented Docker within the Jenkins pipeline, ensuring containerized builds and deployments.
-</li>
- <strong> Tech Stack :</strong>
- <strong> - Jenkins
-  - GitHub
-  - Maven
-  - SonarQube
-  - Docker</strong>
 
    
 </ul>
