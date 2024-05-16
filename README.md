@@ -1,4 +1,6 @@
-
+<div style="text-align: center;">
+  <img style="max-width: 100%;" src="https://github.com/AnandPattanashetti/AnandPattanashetti/blob/main/github-header-image%20(1).png" />
+</div>
 
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22" alt="Typing SVG" />
 
