@@ -2,6 +2,9 @@
   <img style="max-width: 100%;" src="https://github.com/AnandPattanashetti/AnandPattanashetti/blob/main/github-header-image%20(1).png" />
 </div>
 
+
+
+
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22" alt="Typing SVG" />
 
 </h2>
@@ -127,4 +130,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AnandPattanashetti&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="500px">
 
