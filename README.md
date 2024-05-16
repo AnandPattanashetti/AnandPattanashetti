@@ -9,13 +9,18 @@
 <a href="https://vinodjangid07.github.io/" align="left"><img align="left" width="122" alt="Frame 21" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/fc2c1204-e65d-442c-b3b2-c640474b91d6"></a>
 <br><br>
 <p align="left"><img align="left" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200px"></p>
-<ul align="right">
+<ul align="center">
+  
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m A ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 DevOps Engineer...</li>
 <!--   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li> -->
-  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;💞️ Experienced AWS DevOps enthusiast, driven to learn and contribute in dynamic environments. Open to opportunities and advice for building a successful career journey together ...</li>
-  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit  <a href="https://anandshetty.cloud/" target="_blank">Portfolio</a> to know more about me ...</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;🌟 Experienced AWS DevOps professional, eager to learn and explore opportunities.</li>
+
+
+  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;📂Visit  <a href="https://anandshetty.cloud/" target="_blank">Portfolio</a> to know more about me ...</li>
 </ul>
+
+
 <br><br><br><br>
 
 <p align="left"><img width="117" alt="Frame 24" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/fe9e5a0d-e48a-4fac-ba66-d6d99c368d54"></p>
