@@ -10,15 +10,19 @@
 <br><br>
 <p align="left"><img align="left" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200px"></p>
 <ul align="center">
+ 
+<div align="left">
+        <ul style="list-style-type:none; padding: 0; max-width: 600px; margin: auto;">
+            <li style="text-align: left;">👋 Hi, I’m A ...</li>
+            <li style="text-align: left;">👨‍💻 DevOps Engineer...</li>
+            <li style="text-align: left;">🌟 Experienced AWS DevOps professional, eager to learn and explore opportunities.</li>
+            <li style="text-align: left;">📂 Visit <a href="https://anandshetty.cloud/" target="_blank">Portfolio</a> to know more about me ...</li>
+        </ul>
+    </div>
   
-  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m A ...</li>
-  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 DevOps Engineer...</li>
-<!--   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li> -->
-  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;🌟 Experienced AWS DevOps professional, eager to learn and explore opportunities.</li>
-
-
-  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;📂Visit  <a href="https://anandshetty.cloud/" target="_blank">Portfolio</a> to know more about me ...</li>
 </ul>
+
+
 
 
 <br><br><br><br>
