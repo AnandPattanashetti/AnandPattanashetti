@@ -32,7 +32,7 @@
 <!--  <a href="https://www.instagram.com/vinod.jangid07/" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/1de75b52-f87e-4394-975f-755b198d3536" alt="Instagram" height="50" title="Instagram"></a> -->
 <!--   <a href="https://uiverse.io/profile/vinodjangid07" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/b07ceafc-8cc1-4e4d-a5b4-e1846c40f0c2" alt="uiverse" height="50" title="Uiverse"></a> -->
 <!--  <a href="https://codepen.io/vinodjangid07" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/85960e4e-546e-4b2e-a2f5-0b7ae0a2e15d" alt="Codepen" height="50" title="Codepen"></a> -->
- <a href="https://vinodjangid07.github.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Portfolio_.gif" alt="Portfolio" height="50" title="Portfolio"></a>
+ <a href="https://anandshetty.cloud/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Portfolio_.gif" alt="Portfolio" height="50" title="Portfolio"></a>
   <a href="https://medium.com/@anandshetty010/" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:679/1*00ZKQ1H980DMtrs3woE4Gg.gif" alt="Portfolio" height="50" title="Blog"></a>
 
  
