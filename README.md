@@ -87,7 +87,7 @@
 <p>
    <img src="https://static-00.iconduck.com/assets.00/sonarqube-icon-512x125-4mf3yt3g.png" alt="Javascript" height="50" title="Sonarqube"> 
      <img src="https://static-00.iconduck.com/assets.00/file-type-terraform-icon-455x512-csyun60o.png" alt="Javascript" height="50" title="Terraform">
-          <img src="https://static-00.iconduck.com/assets.00/ansible-icon-1024x1024-s7j1afye.png" alt="Javascript" height="50" title="Terraform">
+          <img src="https://static-00.iconduck.com/assets.00/ansible-icon-1024x1024-s7j1afye.png" alt="Javascript" height="50" title="Ansible">
     
    </p>
 
