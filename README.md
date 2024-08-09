@@ -33,11 +33,6 @@
 
 <p align="left"><img width="117" alt="Frame 24" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/fe9e5a0d-e48a-4fac-ba66-d6d99c368d54"></p>
 <br>
-
-
-
-
-
 <p align="left">
  <a href="https://linkedin.com/in/anand-p9731265371/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Linkdin" height="50" title="linkdin"></a>
   <a href="mailto:ashetti.devops@gmail.com" target="_blank"><img src="https://cdn.dribbble.com/users/199215/screenshots/10180559/media/e92f5499d15e13469e21eb081407b2dd.gif" alt="Gmail" height="50" title="Gmail"></a>
@@ -53,9 +48,10 @@
 <br>
 
 <img width="137" alt="Frame 22" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/96fc909c-2e49-4d81-8f7e-b46471d60e53">
-<br><br><br>
+<br> <br>
 
  ![cloud](https://img.shields.io/badge/Cloud-%2300ADD8.svg?style=flat&logo=Cloud&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=aws&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%234285F4.svg?style=flat&logo=github&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-%23632CA6.svg?style=flat&logo=cicd&logoColor=white)  ![Jenkins](https://img.shields.io/badge/Jenkins-%234285F4.svg?style=flat&logo=jenkins&logoColor=white) ![Gitlab](https://img.shields.io/badge/Gitlab-%234285F4.svg?style=flat&logo=gitlab&logoColor=white) ![GithubActions](https://img.shields.io/badge/GitHubActions-%234285F4.svg?style=flat&logo=githubactions&logoColor=white) ![Maven](https://img.shields.io/badge/ApacheMaven-%234285F4.svg?style=flat&logo=apachemaven&logoColor=white) ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=flat&logo=sonarqube&logoColor=white&color=%234E9BCD) ![Trivy](https://img.shields.io/badge/Trivy-%234285F4.svg?style=flat&logo=trivy&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![GRAFANA](https://img.shields.io/badge/grafana-F46800.svg?style=flat&logo=grafana&logoColor=white&color=%23F46800)  ![PROMETHEUS](https://img.shields.io/badge/prometheus-E6522C.svg?style=flat&logo=prometheus&logoColor=white&color=%23E6522C)   ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white)  ![RDS](https://img.shields.io/badge/RDS-%234285F4.svg?style=flat&logo=rds&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![ANSIBLE](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white)![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch) ![ISTIO](https://img.shields.io/badge/istio-466BB0.svg?style=flat&logo=istio&logoColor=white&color=%23466BB0) ![VAULT](https://img.shields.io/badge/vault-FFEC6E.svg?style=flat&logo=vault&logoColor=white&color=%23FFEC6E) 
+![Java](https://img.shields.io/badge/Java-%234285F4.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-%234285F4.svg?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/ShellScript-%234285F4.svg?style=flat&logo=gnu-bash&logoColor=ffdd54) ![Yaml](https://img.shields.io/badge/Yaml-%234285F4.svg?style=flat&logo=yaml&logoColor=ffdd54) 
 
  <br>
 
