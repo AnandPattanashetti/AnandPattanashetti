@@ -23,7 +23,7 @@
         <ul style="list-style-type: none; padding: 0; text-align: left;">
             <li>👋 Hi, I’m A ...</li>
             <li>👨‍💻 DevOps Engineer...</li>
-            <li>🌟 Experienced AWS DevOps professional, eager to learn and explore opportunities.</li>
+            <li>🌟 Experienced AWS & DevOps professional, eager to learn and explore opportunities.</li>
             <li>📂 Visit <a href="https://anandshetty.cloud/" target="_blank">Portfolio</a> to know more about me ...</li>
         </ul>
     </div>
